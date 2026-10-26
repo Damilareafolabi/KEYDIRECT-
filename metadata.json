@@ -1,0 +1,6 @@
+{
+  "name": "KeyDirect Real Estate",
+  "description": "Trust-focused, scam-free real estate platform connecting renters directly with verified owners, developers, and agents across Nigeria and worldwide. Powered by SimeonJrStudios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
